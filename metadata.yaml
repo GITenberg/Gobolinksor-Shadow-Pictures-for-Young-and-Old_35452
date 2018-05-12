@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '3831'
     url: http://www.gutenberg.org/2009/agents/3831
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35452#Gobolinksor-Shadow-Pictures-for-Young-and-Old
 gutenberg_issued: '2011-03-02'
 gutenberg_type: Text
 identifiers:
